@@ -1,6 +1,6 @@
 🚀 Hi, I'm Harsh Pandey
 
-💻 Second-Year Engineering Student | Flutter Developer | Finance & Investing Enthusiast
+💻 Second-Year Engineering Student | App Developer | Finance & Investing Enthusiast
 
 Passionate about building modern digital products focused on simplicity, performance, privacy, and real-world usability.
 
@@ -24,7 +24,7 @@ Currently building **Vault** — a premium offline-first expense tracker designe
 
 🚀 Interests
 
-Flutter App Development  
+App Development  
 Personal Finance & Investing  
 UI/UX Design  
 SaaS & Product Building  
